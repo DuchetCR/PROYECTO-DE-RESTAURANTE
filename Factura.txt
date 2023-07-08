@@ -1,0 +1,18 @@
+Factura
+SISTEMA XPRESS
+Cedula juridica 3 102 808095
+Sede Heredia
+***************************************
+Nombre facturacion: 3
+Telefono facturacion: 3
+Direcion exacta: 3
+Su Comidas son =['Tacos', 'Tacos']
+Su Bebidas son =['Fanta Naranja', 'Fanta Naranja']
+Su Postres son =['Helado', 'Helado']
+Total de comida es: 5000
+Total de bebida es: 4800
+Total de Postres es: 2800
+Total del envio 4000
+Total a cancelar 16600
+***************************************
+Gracias por utilizar Xpress Sistema
